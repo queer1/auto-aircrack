@@ -1,0 +1,3 @@
+A set of scripts that use the aircrack-ng suite on BT5r1 to scan for wifi networks, crack WEP, and crack WPA.
+REQUIRES: BT5r1-GNOME and that you startx
+This script must be run in a gnome-terminal that is running as root (try "gksudo gnome-terminal").
